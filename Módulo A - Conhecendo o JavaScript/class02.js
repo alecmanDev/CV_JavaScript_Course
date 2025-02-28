@@ -1,0 +1,1 @@
+// Foi explicado uma breve história de JavaScript
