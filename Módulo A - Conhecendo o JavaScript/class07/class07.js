@@ -1,0 +1,1 @@
+// Aprendido sobre operadores etc
